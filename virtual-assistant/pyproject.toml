@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "virtual-assistant"
+version = "0.1.0"
+description = "A virtual assistant system with text-to-speech and speech-to-text capabilities."
+authors = ["Your Name <youremail@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+speechrecognition = "^3.8.1"
+gTTS = "^2.2.3"
+pydub = "^0.25.1"
+nltk = "^3.6.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
