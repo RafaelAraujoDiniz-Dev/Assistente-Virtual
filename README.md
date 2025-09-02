@@ -30,7 +30,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 ## **Instalação**
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/RafaelAraujoDiniz-Dev/assistente-virtual.git
+   git clone https://github.com/RafaelAraujoDiniz-Dev/Assistente-Virtual.git
    cd assistente-virtual
 
 2. Crie um ambiente virtual (recomendado):
